@@ -1,0 +1,72 @@
+body {
+  background-color: #F1F7E7;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+/* class styles */
+.facebookImg{
+  width: 40px;
+  height: 40px;
+}
+
+.linedInImg{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 10px;
+}
+
+.instagramImg{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 20px;
+}
+
+.emailImg{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  left: 30px;
+}
+
+
+.eduTable{
+  border-spacing: 15px;
+  width: 90%;
+}
+
+.techTable{
+  width:100%;
+}
+
+.workTable{
+  width: 80%;
+}
+
+.proTable{
+  width: 80%;
+}
+
+.teamTable{
+  width: 85%;
+}
